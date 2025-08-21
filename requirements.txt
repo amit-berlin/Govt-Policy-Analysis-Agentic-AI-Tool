@@ -1,9 +1,6 @@
 streamlit
 pandas
 numpy
-torch
-tensorflow
 scikit-learn
-langchain
-fpdf
 PyPDF2
+langchain
